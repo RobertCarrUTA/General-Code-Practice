@@ -1,2 +1,2 @@
-# CodecademyPractice
-This is a collection of my Codecademy practice.
+# Repo Description
+This is a collection of me generally practicing and learning code.
