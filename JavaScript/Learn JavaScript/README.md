@@ -35,3 +35,20 @@ const job = 'developer';
 const name; // SyntaxError: missing initializer  
 const num = 10;  
 num = 20; // Compiler Error: Cannot assign to 'num' because it is a constant or read-only property    
+  
+## console
+In JavaScript, the console object provides access to the broweser debugging console. The following methods can be used on it, for example:  
+log()  
+error()  
+warn()  
+clear()  
+time() and timeEnd()  
+table()  
+count()  
+group() and groupEnd()  
+### Lets look at some of these more closely
+#### console.log()
+console.log is mostly used to log the outputs to the console. Any data type can be used inside of a console.log(). Examples inlcude:  
+console.log(2011);  
+console.log('Woohoo! I love to code!');  
+console.log(20.49);  
