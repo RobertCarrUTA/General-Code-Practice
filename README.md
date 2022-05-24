@@ -1,2 +1,2 @@
 # Repo Description
-This is a collection of me generally practicing and learning the basics of multiple coding languages. Sometimes on my own, sometimes through free online learning resources.
+This is a collection of me generally practicing and learning the basics of multiple coding languages. Sometimes on my own, sometimes through free online learning resources. At this time, look into each folder to find more detailed explantions of what relates to each language. In the future, I could put all of it here in a really long readme file, but I will decide that when this is more robust.
