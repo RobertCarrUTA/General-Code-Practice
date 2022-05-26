@@ -10,4 +10,4 @@
 | decimal | Monetary values | 16 | System.Decimal | 28 significant figures
 | char | Single character | 2 | System.Char | N/A
 | bool | Boolean | 1 | System.Boolean | 0:0:00 on 01/01/0001 to 23:59:59 on 12/31/9999
-| string | Sequence of characters | 2 per character | System.String | -N/A
+| string | Sequence of characters | 2 per character | System.String | N/A
