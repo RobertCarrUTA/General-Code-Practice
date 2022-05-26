@@ -8,6 +8,6 @@
 | float | Floating-point numbers | 4 | System.Single | +/-3.4x10^38
 | double | Double precision (more accurate) floating-point numbers | 8 | System.Double | +/-1.7x10^308
 | decimal | Monetary values | 16 | System.Decimal | 28 significant figures
-| int | Whole numbers | 4 | System.Int32 | -2,147,483,648 to 2,147,483,647
-| int | Whole numbers | 4 | System.Int32 | -2,147,483,648 to 2,147,483,647
+| char | Single character | 2 | System.Char | N/A
+| bool | Boolean | 1 | System.Boolean | 0:0:00 on 01/01/0001 to 23:59:59 on 12/31/9999
 | int | Whole numbers | 4 | System.Int32 | -2,147,483,648 to 2,147,483,647
