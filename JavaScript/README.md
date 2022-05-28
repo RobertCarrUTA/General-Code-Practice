@@ -1,7 +1,6 @@
 # JavaScript
 
-## Data Types
-# Data Types
+## Typed Arrays
 | Type | Range | Size (bytes) | Description | Web IDL Type | Equivalent C Type
 | :---: | :---: | :---: | :---: | :---: | :---: 
 | Int8Array | -128 to 127	| 1	| 8-bit two's complement signed integer |	byte | int8_t
